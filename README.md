@@ -1,5 +1,5 @@
 # Color-Changing-Clock
-  In this Project have created a real-time clock which changes it's color according to time as follows💫:
+  In this Project I have created a real-time clock which changes it's color according to time as follows💫:
   <img width="1055" alt="img1" src="https://user-images.githubusercontent.com/108738197/230161506-34fa3769-a2b3-428a-a7f5-3e123a566263.png">
   
 <img width="1055" alt="img2" src="https://user-images.githubusercontent.com/108738197/230161529-76c4760d-8bbd-4e48-9b7e-8267c5c673db.png">
