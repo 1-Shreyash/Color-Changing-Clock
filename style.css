@@ -70,6 +70,7 @@ p{
 	-webkit-text-stroke: 0.5px black;
 	-webkit-text-fill-color: white;
     font-weight: 700;
+    z-index:1;
 }
 @media screen and (max-width: 700px) {
     .b1,.b2,.b3,.b4,.b5,.b6{
