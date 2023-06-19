@@ -16,6 +16,10 @@
 
 <img width="1055" alt="img8" src="https://user-images.githubusercontent.com/108738197/230161649-8a2e8867-c5e2-4caa-9d57-a9d8d7b809aa.png">
 
+![Photo on 10-02-23 at 9 35 AM](https://github.com/1-Shreyash/Color-Changing-Clock/assets/108738197/af8da1c4-8a43-4c6f-acd9-ce88133e9b2a)
+
+
+
 ## The website link is 👇👇👇:
 
 https://1-shreyash.github.io/Color-Changing-Clock/
